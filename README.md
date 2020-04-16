@@ -26,7 +26,7 @@ Ejemplo:
 2
 9
 0
- *Salida:
+  *Salida:
 1
 2
 10
